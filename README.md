@@ -17,15 +17,17 @@ How to test?
 
 # Api routes
 
-Index: http://localhost:5005/ (GET Method)
+1. Index: http://localhost:5005/ (GET Method)
 
-Get all: http://localhost:5005/api/ (GET Method)
+https://github.com/KarthikeyanSJ/restful-api-library/blob/main/screenshots/1.PNG
 
-Find One: http://localhost:5005/api/id (GET Method)
+2. Get all: http://localhost:5005/api/ (GET Method)
 
-Create: http://localhost:5005/api/ (POST Method)
+3. Find One: http://localhost:5005/api/id (GET Method)
 
-Update: http://localhost:5005/api/id (PUT Method)
+4. Create: http://localhost:5005/api/ (POST Method)
 
-Delete: http://localhost:5005/api/id (DELETE Method)
+5. Update: http://localhost:5005/api/id (PUT Method)
+
+6. Delete: http://localhost:5005/api/id (DELETE Method)
 
